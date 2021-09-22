@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello, My name is Philip, affectionately "pocho", I am an enthusiastic learner in everything related to web development. I like to cook, chat with friends, read, study and especially the family. I currently work as a Geografica database analyst in one of the electricity distribution companies in my country. I am looking for a way to collaborate with the community and thus develop my skills and create solid collaborative relationships. My main goal right now is to be able to get a totally remote TECH job.
+
+This is my email adress: pcabreram1234@gmail.com, it will be a pleasurte to share with you
