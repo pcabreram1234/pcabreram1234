@@ -21,7 +21,7 @@ Hello, My name is Philip, affectionately "pocho"😊 , I am an enthusiastic lear
 I am specializing mainly in JavaScript, I have knowledge in the following technologies
 HTML5 </br>
 CSS3 </br>
-JavaSCript </br>
+JavaScript </br>
 ReactJs </br>
 Bootstrap </br>
 Webpack </br>
