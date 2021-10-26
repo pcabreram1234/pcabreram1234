@@ -34,4 +34,4 @@ Webpack </br>
 
 
 
-it will be a pleasurte to share with you.
+it will be a pleasure to share with you.
