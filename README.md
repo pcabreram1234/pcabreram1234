@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="center">Hello, My name is Philip, affectionately "pocho"😊 , I am an enthusiastic learner in everything related to web development. I like to cook, chat with friends, read, study and especially the family. 🔭 I currently work as a Geografica database analyst in one of the electricity distribution companies in my country. I am looking for a way to collaborate with the community and thus develop my skills and create solid collaborative relationships. My main goal right now is to be able to get a totally remote TECH job.<p/>
 
-<p align="center"> I am specializing mainly in JavaScript, I have knowledge in the following technologies</p>
-
 <h2 align="center">Contacts</h2>
 <p align="center"> <a href="mailto:pcabreram1234@gmail.com" target="_blank">📫Email</a></p>
 <p align="center"><a href="https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano" target="_blank">👩🏽‍✈️LinkedIn</a></p>
