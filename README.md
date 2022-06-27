@@ -35,7 +35,7 @@ I am specializing mainly in JavaScript, I have knowledge in the following techno
 </h2>
 
 
-table>
+<table>
     <thead>
         <tr>
             <th>Layer 1</th>
