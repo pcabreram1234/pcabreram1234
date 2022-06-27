@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am specializing mainly in JavaScript, I have knowledge in the following technologies </br>
 
-  <table>
+ <table>
             <thead>
                 <th>Skills</th>
             </thead>
@@ -49,32 +49,14 @@ I am specializing mainly in JavaScript, I have knowledge in the following techno
                     <td>Webpack</td>
                 </tr>
             </tbody>
-        </table>
-        <table>
-            <thead>
-                <th rowspan="2">Contacts</th>
-            <tbody>
-                <tr>
-                    <td colspan="2">
-                        <a href="mailto:pcabreram1234@gmail.com" target="_blank">📫Email</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2">
-                        <a href="https://www.figma.com/@pcabreram" target="_blank">🎨Figma</a>
-                    </td>
-                </tr>
+ </table>
 
-                <tr>
-                    <td colspan="2">
-                        <a href="https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/"
-                            target="_blank">👩🏽‍✈️LinkedIn</a>
-                    </td>
-                </tr>
+| Contacts |
+| :-----: | 
+|  <a href="mailto:pcabreram1234@gmail.com" target="_blank">📫Email</a>  | 
+|   <a href="https://www.figma.com/@pcabreram" target="_blank">🎨Figma</a>  |
+|  <a href="https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano" target="_blank">👩🏽‍✈️LinkedIn</a>  | 
 
-            </tbody>
-            </thead>
-        </table>
 <h2 align="center" >
 **it will be a pleasure to share with you.**
 </h2>
