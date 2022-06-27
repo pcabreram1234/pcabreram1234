@@ -41,6 +41,7 @@ I am specializing mainly in JavaScript, I have knowledge in the following techno
         </tr>
             <td>ReactJs</td>
         </tr>
+        <tr>
             <td>Bootstrap</td>
         </tr>
          <tr>
