@@ -22,37 +22,36 @@ Here are some ideas to get you started:
 I am specializing mainly in JavaScript, I have knowledge in the following technologies </br>
 
 <table>
-    <thead>
-        <td>Skills</td>
-        <td>Contacts</td>
-    </thead>
-    <tbody>
-        <tr>
-            <td>HTML5</td>
-            <td rowspan="2" >📫Email: pcabreram1234@gmail.com</td>
-        </tr>
-         <tr>
-            <td>CSS3</td>
-            <td rowspan="2">🎨Figma: pcabreram1234@gmail.com</td>
-        </tr>
-         <tr>
-            <td>JavaScript</td>
-            <td rowspan="2">👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</td>
-        </tr>
-            <td>ReactJs</td>
-        </tr>
-        <tr>
-            <td>Bootstrap</td>
-        </tr>
-         <tr>
-            <td>Webpack</td>
-        </tr>
-    </tbody>
-</table>
+        <thead>
+            <td>Skills</td>
+            <td>Contacts</td>
+        </thead>
+        <tbody>
+            <tr>
+                <td>HTML5</td>
+                <td rowspan="2">📫Email: pcabreram1234@gmail.com</td>
+            </tr>
+            <tr>
+                <td>CSS3</td>
+                <td rowspan="2">🎨Figma: pcabreram1234@gmail.com</td>
+            </tr>
+            <tr>
+                <td>JavaScript</td>
+                <td rowspan="2">👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</td>
+            </tr>
+            <tr>
+                <td>ReactJs</td>
+            </tr>
+            <tr>
+                <td>Bootstrap</td>
+            </tr>
+            <tr>
+                <td>Webpack</td>
+            </tr>
+        </tbody>
+    </table>
 
+<h2>
 **it will be a pleasure to share with you.**
 </h2>
-
-
-
 
