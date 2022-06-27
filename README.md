@@ -37,7 +37,7 @@ I am specializing mainly in JavaScript, I have knowledge in the following techno
             </tr>
             <tr>
                 <td>JavaScript</td>
-                <td>👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</td>
+                <td rowspan="2">👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</td>
             </tr>
             <tr>
                 <td>ReactJs</td>
