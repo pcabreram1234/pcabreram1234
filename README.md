@@ -23,13 +23,13 @@ I am specializing mainly in JavaScript, I have knowledge in the following techno
 
 <table>
     <thead>
-        <td>**Skills**</td>
-        <td>**Contacts**</td>
+        <td>Skills</td>
+        <td>Contacts</td>
     </thead>
     <tbody>
         <tr>
             <td>HTML5</td>
-            <td>📫Email: pcabreram1234@gmail.com</td>
+            <td rowspan="2" >📫Email: pcabreram1234@gmail.com</td>
         </tr>
          <tr>
             <td>CSS3</td>
