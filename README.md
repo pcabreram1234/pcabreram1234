@@ -21,37 +21,61 @@ Here are some ideas to get you started:
 
 I am specializing mainly in JavaScript, I have knowledge in the following technologies </br>
 
-<table>
-        <thead>
-            <td>Skills</td>
-            <td>Contacts</td>
-        </thead>
-        <tbody>
-            <tr>
-                <td>HTML5</td>
-                <td rowspan="2">📫Email: pcabreram1234@gmail.com</td>
-            </tr>
-            <tr>
-                <td>CSS3</td>
-                <td rowspan="2">🎨Figma: pcabreram1234@gmail.com</td>
-            </tr>
-            <tr>
-                <td>JavaScript</td>
-                <td rowspan="2">👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</td>
-            </tr>
-            <tr>
-                <td>ReactJs</td>
-            </tr>
-            <tr>
-                <td>Bootstrap</td>
-            </tr>
-            <tr>
-                <td>Webpack</td>
-            </tr>
-        </tbody>
-    </table>
+  <table>
+            <thead>
+                <th>Skills</th>
+            </thead>
+            <tbody>
 
-<h2>
+                <tr>
+                    <td>HTML5</td>
+
+                </tr>
+                <tr>
+                    <td>CSS3</td>
+
+                </tr>
+                <tr>
+                    <td>JavaScript</td>
+
+                </tr>
+                <tr>
+                    <td>ReactJs</td>
+                </tr>
+                <tr>
+                    <td>Bootstrap</td>
+                </tr>
+                <tr>
+                    <td>Webpack</td>
+                </tr>
+            </tbody>
+        </table>
+        <table>
+            <thead>
+                <th rowspan="2">Contacts</th>
+            <tbody>
+                <tr>
+                    <td colspan="2">
+                        <a href="mailto:pcabreram1234@gmail.com" target="_blank">📫Email</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <a href="https://www.figma.com/@pcabreram" target="_blank">🎨Figma</a>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="2">
+                        <a href="https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/"
+                            target="_blank">👩🏽‍✈️LinkedIn</a>
+                    </td>
+                </tr>
+
+            </tbody>
+            </thead>
+        </table>
+<h2 align="center" >
 **it will be a pleasure to share with you.**
 </h2>
 
