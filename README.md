@@ -22,18 +22,16 @@ Here are some ideas to get you started:
 I am specializing mainly in JavaScript, I have knowledge in the following technologies </br>
 
 <table>
-    <th>
+    <thead>
         <td>**Skills**</td>
         <td>**Contacts**</td>
-    </th>
-    
+    </thead>
     <tbody>
     <tr>
     HTML5
     📫Email: pcabreram1234@gmail.com
     </tr>
     </tbody>
-    
 </table>
 
 | **Skills**        | **Contacts**      |
