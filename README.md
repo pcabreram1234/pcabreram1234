@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcabreram1234)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 Hello, My name is Philip, affectionately "pocho"😊 , I am an enthusiastic learner in everything related to web development. I like to cook, chat with friends, read, study and especially the family. 🔭 I currently work as a Geografica database analyst in one of the electricity distribution companies in my country. I am looking for a way to collaborate with the community and thus develop my skills and create solid collaborative relationships. My main goal right now is to be able to get a totally remote TECH job.
 
