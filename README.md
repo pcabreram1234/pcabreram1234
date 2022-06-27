@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 I am specializing mainly in JavaScript, I have knowledge in the following technologies </br>
 
-| Skills        | Contacts      |
+| **Skills**        | **Contacts**      |
 | ------------- |:-------------:|
-|   <li>HTML5</li>     | right-aligned |
-|   <li>CSS3</li>     | centered      | 
-|   <li>JavaScript</li> | are neat      |
-|   <li>ReactJs</li> | are neat      |
-|  <li>Bootstrap</li> | are neat      |
-| <li>Webpack</li> | are neat      |
+|   <li>HTML5</li>       |  <li>📫Email: pcabreram1234@gmail.com</li>                                               |
+|   <li>CSS3</li>        |  <li>🎨Figma: pcabreram1234@gmail.com</li>                                               | 
+|   <li>JavaScript</li>  |  <li>👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</li>      |
+|   <li>ReactJs</li>     |
+|   <li>Bootstrap</li>   |
+|   <li>Webpack</li>     |
 
 <h2 align="center">
 Skills
