@@ -33,22 +33,17 @@ I am specializing mainly in JavaScript, I have knowledge in the following techno
         </tr>
          <tr>
             <td>CSS3</td>
-            <td>🎨Figma: pcabreram1234@gmail.com</td>
+            <td rowspan="2">🎨Figma: pcabreram1234@gmail.com</td>
         </tr>
-            <tr>
+         <tr>
             <td>JavaScript</td>
-            <td>👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</td>
+            <td rowspan="2">👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</td>
         </tr>
-            <tr collspan="2">
             <td>ReactJs</td>
         </tr>
-              </tr>
-            <tr collspan="2">
             <td>Bootstrap</td>
         </tr>
-          </tr>
-              </tr>
-            <tr collspan="2">
+         <tr>
             <td>Webpack</td>
         </tr>
     </tbody>
