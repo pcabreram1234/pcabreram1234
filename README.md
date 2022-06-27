@@ -26,31 +26,13 @@ I am specializing mainly in JavaScript, I have knowledge in the following techno
 |   <li>HTML5</li>       |  <li>📫Email: pcabreram1234@gmail.com</li>                                               |
 |   <li>CSS3</li>        |  <li>🎨Figma: pcabreram1234@gmail.com</li>                                               | 
 |   <li>JavaScript</li>  |  <li>👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</li>      |
-|   <li>ReactJs</li>     |
+|   <li>ReactJs</li>     ||
 |   <li>Bootstrap</li>   |
 |   <li>Webpack</li>     |
 
 <h2 align="center">
-Skills
-</h2>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>ReactJs</li>
-  <li>Bootstrap</li>
-  <li>Webpack</li>
-</ul>
-
-<h2 align="center">
-Contacts
-</h2>
-
-<ul>
-  <li>📫Email: pcabreram1234@gmail.com</li>
-  <li>🎨Figma: pcabreram1234@gmail.com</li>
-  <li>👩🏽‍✈️LinkedIn: https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano/</li>
-</ul>
-
 **it will be a pleasure to share with you.**
+</h2>
+
+
 
