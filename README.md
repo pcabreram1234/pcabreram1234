@@ -21,41 +21,14 @@ Here are some ideas to get you started:
 
 I am specializing mainly in JavaScript, I have knowledge in the following technologies </br>
 
- <table>
-            <thead>
-                <th>Skills</th>
-            </thead>
-            <tbody>
-
-                <tr>
-                    <td>HTML5</td>
-
-                </tr>
-                <tr>
-                    <td>CSS3</td>
-
-                </tr>
-                <tr>
-                    <td>JavaScript</td>
-
-                </tr>
-                <tr>
-                    <td>ReactJs</td>
-                </tr>
-                <tr>
-                    <td>Bootstrap</td>
-                </tr>
-                <tr>
-                    <td>Webpack</td>
-                </tr>
-            </tbody>
- </table>
+ 
 
 | Contacts |
 | :-----: | 
 |  <a href="mailto:pcabreram1234@gmail.com" target="_blank">📫Email</a>  | 
 |   <a href="https://www.figma.com/@pcabreram" target="_blank">🎨Figma</a>  |
 |  <a href="https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano" target="_blank">👩🏽‍✈️LinkedIn</a>  | 
+|  <a href="[https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano](https://pcabreram-portfolio.netlify.app/)" target="_blank">💻 Portfolio</a>  | 
 
 <h2 align="center" >
 **it will be a pleasure to share with you.**
