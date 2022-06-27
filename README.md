@@ -20,6 +20,19 @@ Here are some ideas to get you started:
 <p align="center">Hello, My name is Philip, affectionately "pocho"😊 , I am an enthusiastic learner in everything related to web development. I like to cook, chat with friends, read, study and especially the family. 🔭 I currently work as a Geografica database analyst in one of the electricity distribution companies in my country. I am looking for a way to collaborate with the community and thus develop my skills and create solid collaborative relationships. My main goal right now is to be able to get a totally remote TECH job.<p/>
 
 I am specializing mainly in JavaScript, I have knowledge in the following technologies </br>
+
+| Skills        | Contacts      |
+| ------------- |:-------------:|
+|   <li>HTML5</li>     | right-aligned |
+|   <li>CSS3</li>     | centered      | 
+|   <li>JavaScript</li> | are neat      |
+|   <li>ReactJs</li> | are neat      |
+|  <li>Bootstrap</li> | are neat      |
+| <li>Webpack</li> | are neat      |
+
+<h2 align="center">
+Skills
+</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
