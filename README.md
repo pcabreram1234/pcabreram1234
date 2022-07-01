@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano" target="_blank">👩🏽‍✈️LinkedIn</a></p>
 <p align="center"><a href="[https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano](https://pcabreram-portfolio.netlify.app/)" target="_blank" >💻 Portfolio</a></p>
 
-<h3 align="center" >
-**it will be a pleasure to share with you.**
+<h3 align="center">
+it will be a pleasure to share with you.
 </h3>
 
