@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h2 align="center">Contacts</h2>
 <p align="center"> <a href="mailto:pcabreram1234@gmail.com" target="_blank">📫Email</a></p>
 <p align="center"><a href="https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano" target="_blank">👩🏽‍✈️LinkedIn</a></p>
-<p align="center"><a href="[https://www.linkedin.com/in/phillip-leonardo-cabrera-medrano](https://pcabreram-portfolio.netlify.app/)" target="_blank" >💻 Portfolio</a></p>
+<p align="center"><a href="https://pcabreram-portfolio.netlify.app/" target="_blank" >💻 Portfolio</a></p>
 
 <h3 align="center">
 it will be a pleasure to share with you.
