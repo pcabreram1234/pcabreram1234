@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |<img  src="https://github-readme-stats.vercel.app/api?username=pcabreram1234&show_icons=true&theme=dark">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcabreram1234&layout=compact&theme=dark" />|
 
 
-
+[![An image of @pcabreram1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pcabreram1234)](https://holopin.io/@pcabreram1234)
 
 <p align="center">Hello, My name is Philip, I am an enthusiastic learner in everything related to web development. I like to cook, chat with friends, read, study and especially the family. 🔭 I currently work as a Geografic database analyst in one of the electricity distribution companies in my country (Dominican Republic). I am looking for a way to collaborate with the community and thus develop my skills and create solid collaborative relationships. My main goal right now is to be able to get a totally remote TECH job.<p/>
 
